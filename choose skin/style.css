@@ -1,0 +1,32 @@
+.grid {
+	width: 506px;
+	height: 500px;
+	display: flex;
+	flex-wrap: wrap;
+    margin-left: 69.5vw;
+    margin-top: 8vw;
+}
+
+.skin {
+	height: 250px;
+	width: 250px;
+    background-size: cover;
+}
+
+.button_open_container{
+    display: flex;
+    background-color: brown;
+    width: 12vw;
+    text-align: center;
+    margin-left: 70vw;
+    margin-bottom:1vw;
+    font-size: 2vw;
+}
+
+.button_text{
+    font-size: 2vw;
+}
+
+body{
+    background-image: url(https://dmarket.com/blog/best-csgo-wallpapers/tercsgo_huc01d3a403c050d47715d6aeed15b344f_839613_1920x1080_resize_q75_lanczos.jpg)
+}
