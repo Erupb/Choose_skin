@@ -3,67 +3,67 @@ const open_button = document.getElementById('button_open_container');
 const num_of_elems = 21;
 const skins_array = [
     {
-        img: 'berettas.png'
+        img: 'img/berettas.png'
     },
     {
-        img: 'glock.png'
+        img: 'img/glock.png'
     },
     {
-        img: 'tec.png'
+        img: 'img/tec.png'
     },
     {
-        img: 'deagle.png'
+        img: 'img/deagle.png'
     },
     {
-        img: 'p250.png'
+        img: 'img/p250.png'
     },
     {
-        img: 'nova.png'
+        img: 'img/nova.png'
     },
     {
-        img: 'xm.png'
+        img: 'img/xm.png'
     },
     {
-        img: 'sawed.png'
+        img: 'img/sawed.png'
     },
     {
-        img: 'm249.png'
+        img: 'img/m249.png'
     },
     {
-        img: 'negev.png'
+        img: 'img/negev.png'
     },
     {
-        img: 'mac.png'
+        img: 'img/mac.png'
     },
     {
-        img: 'mp7.png'
+        img: 'img/mp7.png'
     },
     {
-        img: 'ump.png'
+        img: 'img/ump.png'
     },
     {
-        img: 'p90.png'
+        img: 'img/p90.png'
     },
     {
-        img: 'bizon.png'
+        img: 'img/bizon.png'
     },
     {
-        img: 'galil.png'
+        img: 'img/galil.png'
     },
     {
-        img: 'ak.png'
+        img: 'img/ak.png'
     },
     {
-        img: 'ssg.png'
+        img: 'img/ssg.png'
     },
     {
-        img: 'sg.png'
+        img: 'img/sg.png'
     },
     {
-        img: 'awp.png'
+        img: 'img/awp.png'
     },
     {
-        img: 'scar.png'
+        img: 'img/scar.png'
     }
 ];
 let array_id;
