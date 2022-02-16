@@ -18,7 +18,7 @@ const skins_array = [
         img: 'img/p250.png'
     },
     {
-        img: 'img/nova.png'
+        img: 'img/Nova.png'
     },
     {
         img: 'img/xm.png'
