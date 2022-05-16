@@ -30,13 +30,13 @@ const skins_array = [
         img: 'img/m249.png'
     },
     {
-        img: 'img/negev.png'
+        img: 'img/Negev.png'
     },
     {
         img: 'img/mac.png'
     },
     {
-        img: 'img/mp7.png'
+        img: 'img/Mp7.png'
     },
     {
         img: 'img/ump.png'
